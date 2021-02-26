@@ -6,7 +6,7 @@ Video Link: https://youtu.be/z9ilhj8PF6U
 
 Demo Downloadable: [link](p1.johnvaleriano.rar)
 
-*May require to use Netbeans to open Had troubles converting it to an executable!*
+*May require to use Netbeans to open. Had troubles converting it to an executable!*
 
 ## Intro
     Microwaves, everybody has them and everybody has used them. It may be to make some popcorn
