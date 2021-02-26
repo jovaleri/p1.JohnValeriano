@@ -15,27 +15,27 @@
 
 ## Examples 
 ### First Case
-![First Case](images\1.jpg)
+![First Case](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/1.jpg)
 ### Second Case
-![Second Case](images\2.jpg)
+![Second Case](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/2.jpg)
 
 ## In-Person Microwave 
 ### My Microwave
-![My Microwave](images\microwave.jpg)
+![My Microwave](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/microwave.jpg)
 ### First Interaction
-![Interaction1](images\gif1.gif)
+![Interaction1](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/gif1.gif)
 
     In this gif, the number 5 button is not responding, in addition to this, the button also isn't tactile meaning that 
     you can't tell if you pressed the button or not.
 
 ### Second Interaction 
-![Interaction2](images\gif2.gif)
+![Interaction2](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/gif2.gif)
 
     In this gif, when inputting the time, numbers between 1-6 will automatically start the timer depending on the number clicked
     , which is inconvenient because some people want to input a specific time without having to press the "Pre-set" button. 
 
 ### Critique
-![Analysis](images\3.png)
+![Analysis](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/3.png)
 
 ### Does the given UI make it easier to use? 
 
@@ -69,7 +69,7 @@
 
 ### What about Touch Screens? 
 
-![Redesign](images\redesign.gif)
+![Redesign](https://github.com/jovaleri/p1.JohnValeriano/blob/main/images/redesign.gif)
 
     As cool as touch screens are and how futuristic they look, they serve problems as well, this may attract younger and "tech-savvy" users, but for older audiences, it's like
     using their kid's new iPhone all over again! 
